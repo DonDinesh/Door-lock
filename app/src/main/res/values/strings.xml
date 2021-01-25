@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Lock</string>
+    <string name="button">Button</string>
+    <string name="hello">Welcome</string>
+    <string name="textview">ESP32 Smart Door Lock</string>
+    <string name="unlock">Unlock</string>
+    <string name="textview3">Instructions</string>
+    <string name="textview5">1. Enter ESP32 IP Address in the above blank.</string>
+    <string name="textview6">2. Press the Unlock Button to Unlock.</string>
+    <string name="textview7">Enter ESP32 IP Address.</string>
+</ resources>
